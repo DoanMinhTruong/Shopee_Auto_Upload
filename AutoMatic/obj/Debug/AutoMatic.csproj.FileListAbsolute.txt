@@ -1,0 +1,15 @@
+C:\Users\DM-TRUONG\Desktop\AutoMatic\AutoMatic\bin\Debug\AutoMatic.exe.config
+C:\Users\DM-TRUONG\Desktop\AutoMatic\AutoMatic\bin\Debug\AutoMatic.exe
+C:\Users\DM-TRUONG\Desktop\AutoMatic\AutoMatic\bin\Debug\AutoMatic.pdb
+C:\Users\DM-TRUONG\Desktop\AutoMatic\AutoMatic\obj\Debug\AutoMatic.csprojAssemblyReference.cache
+C:\Users\DM-TRUONG\Desktop\AutoMatic\AutoMatic\obj\Debug\AutoMatic.Form1.resources
+C:\Users\DM-TRUONG\Desktop\AutoMatic\AutoMatic\obj\Debug\AutoMatic.Properties.Resources.resources
+C:\Users\DM-TRUONG\Desktop\AutoMatic\AutoMatic\obj\Debug\AutoMatic.csproj.GenerateResource.cache
+C:\Users\DM-TRUONG\Desktop\AutoMatic\AutoMatic\obj\Debug\AutoMatic.csproj.CoreCompileInputs.cache
+C:\Users\DM-TRUONG\Desktop\AutoMatic\AutoMatic\obj\Debug\AutoMatic.exe
+C:\Users\DM-TRUONG\Desktop\AutoMatic\AutoMatic\obj\Debug\AutoMatic.pdb
+C:\Users\DM-TRUONG\Desktop\AutoMatic\AutoMatic\bin\Debug\WebDriver.dll
+C:\Users\DM-TRUONG\Desktop\AutoMatic\AutoMatic\bin\Debug\WebDriver.xml
+C:\Users\DM-TRUONG\Desktop\AutoMatic\AutoMatic\obj\Debug\AutoMatic.csproj.CopyComplete
+C:\Users\DM-TRUONG\Desktop\AutoMatic\AutoMatic\bin\Debug\WebDriver.Support.dll
+C:\Users\DM-TRUONG\Desktop\AutoMatic\AutoMatic\bin\Debug\WebDriver.Support.xml

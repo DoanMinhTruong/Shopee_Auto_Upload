@@ -1,0 +1,15 @@
+C:\Users\DM-TRUONG\Desktop\AutoMatic\AutoMatic\bin\Release\AutoMatic.exe.config
+C:\Users\DM-TRUONG\Desktop\AutoMatic\AutoMatic\bin\Release\AutoMatic.exe
+C:\Users\DM-TRUONG\Desktop\AutoMatic\AutoMatic\bin\Release\AutoMatic.pdb
+C:\Users\DM-TRUONG\Desktop\AutoMatic\AutoMatic\bin\Release\WebDriver.dll
+C:\Users\DM-TRUONG\Desktop\AutoMatic\AutoMatic\bin\Release\WebDriver.Support.dll
+C:\Users\DM-TRUONG\Desktop\AutoMatic\AutoMatic\bin\Release\WebDriver.xml
+C:\Users\DM-TRUONG\Desktop\AutoMatic\AutoMatic\bin\Release\WebDriver.Support.xml
+C:\Users\DM-TRUONG\Desktop\AutoMatic\AutoMatic\obj\Release\AutoMatic.csprojAssemblyReference.cache
+C:\Users\DM-TRUONG\Desktop\AutoMatic\AutoMatic\obj\Release\AutoMatic.Form1.resources
+C:\Users\DM-TRUONG\Desktop\AutoMatic\AutoMatic\obj\Release\AutoMatic.Properties.Resources.resources
+C:\Users\DM-TRUONG\Desktop\AutoMatic\AutoMatic\obj\Release\AutoMatic.csproj.GenerateResource.cache
+C:\Users\DM-TRUONG\Desktop\AutoMatic\AutoMatic\obj\Release\AutoMatic.csproj.CoreCompileInputs.cache
+C:\Users\DM-TRUONG\Desktop\AutoMatic\AutoMatic\obj\Release\AutoMatic.csproj.CopyComplete
+C:\Users\DM-TRUONG\Desktop\AutoMatic\AutoMatic\obj\Release\AutoMatic.exe
+C:\Users\DM-TRUONG\Desktop\AutoMatic\AutoMatic\obj\Release\AutoMatic.pdb
